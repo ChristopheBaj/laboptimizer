@@ -1,4 +1,4 @@
-![CI](https://github.com/<TON_USERNAME>/laboptimizer/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ChristopheBaj/laboptimizer/actions/workflows/ci.yml/badge.svg)
 # LabOptimizer
 
 LabOptimizer is a machine learning optimization platform designed for research and engineering applications.
